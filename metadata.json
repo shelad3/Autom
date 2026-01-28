@@ -1,0 +1,8 @@
+{
+  "name": "Vinci - AI Video Automation Studio",
+  "description": "An all-in-one AI automation platform for transforming long-form video content into viral shorts, managing social media distribution, and tracking ad budgets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
